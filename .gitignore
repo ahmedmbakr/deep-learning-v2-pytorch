@@ -1,7 +1,7 @@
 .github/**
 
 *.pt
-/.idea/
+**/.idea/
 **/data/**
 
 # Byte-compiled / optimized / DLL files
